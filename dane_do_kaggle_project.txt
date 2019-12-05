@@ -1,0 +1,4 @@
+Danych nie mozna zamiscic na githubie z powodu ich rozmiarow.
+Z tego powodu udostepniamy link do pobrania:
+
+https://www.kaggle.com/c/pubg-finish-placement-prediction/data
